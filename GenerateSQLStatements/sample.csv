@@ -1,0 +1,2 @@
+tablename,col1,dtype1,col2,dtype2,col3,dtype3
+Ads,ad_id,int,user_id,int, action,enum

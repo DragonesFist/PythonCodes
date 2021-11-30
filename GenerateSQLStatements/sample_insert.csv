@@ -1,0 +1,11 @@
+tablename,val1,val2,val3
+Ads,1,1, Clicked 
+Ads,2,2, Clicked 
+Ads,3,3, Viewed 
+Ads,5,5, Ignored 
+Ads,1,7, Ignored 
+Ads,2,7, Viewed 
+Ads,3,5, Clicked 
+Ads,1,4, Viewed 
+Ads,2,11, Viewed 
+Ads,1,2, Clicked 
